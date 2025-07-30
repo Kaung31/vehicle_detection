@@ -1,0 +1,12 @@
+train: D:/dataset/train/images
+val: D:/dataset/valid/images
+test: D:/dataset/test/images
+
+nc: 3
+names:
+  - car
+  - truck
+  - bus
+
+
+
